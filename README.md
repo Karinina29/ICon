@@ -1,2 +1,2 @@
-# ICon
-Icon
+cd mi-proyecto
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
